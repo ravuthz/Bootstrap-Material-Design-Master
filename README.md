@@ -4,5 +4,9 @@ I already made this sample project structure that include Bootstrap 3 with the M
 
 Just see the demo with this http://fezvrasta.github.io/bootstrap-material-design/
 
-![alt tag](https://raw.github.com/username/projectname/branch/path/to/img.png)
+![alt tag](https://github.com/ravuthz/Bootstrap-Material-Design-Master/blob/master/img/Demo-1.PNG)
+
+![alt tag](https://github.com/ravuthz/Bootstrap-Material-Design-Master/blob/master/img/Demo-2.PNG)
+
+![alt tag](https://github.com/ravuthz/Bootstrap-Material-Design-Master/blob/master/img/Demo-3.PNG)
 
